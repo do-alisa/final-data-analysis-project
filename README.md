@@ -2,8 +2,8 @@
 
 ## Authors
 
-- Alisa Do
-- Santhosh Senthil
+- Alisa Do (alisa.do@sjsu.edu)
+- Santhosh Senthil (santhosh.senthil@sjsu.edu)
 
 ## Project Description
 
@@ -21,4 +21,4 @@ We will use a Spotify tracks dataset containing 114,000 rows and 22 columns. The
 
 ### Data Analysis and Visualization Plan - Author #2: Santhosh
 
-
+To start off, we plan to perform an EDA to identify any outliers, missing values, and get an understanding of the overall distribution to start the cleaning process. Afterward, we will analyze the cleaned Spotify dataset to identify which song characteristics are associated with higher popularity. Using Python and pandas, we will compare popularity across features such as genre, explicit status, danceability, energy, acousticness, tempo, and duration, as well as examine correlations between numerical features and popularity. To communicate our findings, we will create visualizations using libraries such as Matplotlib and Seaborn. We plan to implement scatter plots, bar charts, box plots, and a correlation heatmap to highlight relationships, differences between groups, and possible outliers. Our analysis will focus on identifying meaningful patterns while recognizing that correlation does not necessarily mean a song characteristic directly causes higher popularity.
