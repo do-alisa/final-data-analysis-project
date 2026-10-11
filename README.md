@@ -15,10 +15,10 @@ This project will analyze a Spotify tracks dataset to explore which song charact
 
 Our final project will include an interactive dashboard that allows users to explore the Spotify dataset and compare song popularity across different characteristics. Users may be able to filter songs by categories such as genre or explicit status and view how features like danceability, energy, acousticness, tempo, and duration relate to popularity. The dashboard will use clear labels and interactive charts so users can explore the data and identify patterns more easily.
 
-### Data Collection and Storage Plan — Author #1: Alisa
+### Data Collection and Storage Plan - Author #1: Alisa
 
 We will use a Spotify tracks dataset containing 114,000 rows and 22 columns. The dataset includes information such as artist name, track name, album, genre, popularity, explicit status, and several numerical audio features. The original data will be stored as a CSV file, and a separate cleaned version will be created so the original dataset remains unchanged. We will check the data for missing values, unnecessary columns, repeated tracks, and unusual values before beginning the analysis. Python and pandas will be used to load, clean, organize, and store the data.
 
-### Data Analysis and Visualization Plan — Author #2: Santhosh
+### Data Analysis and Visualization Plan - Author #2: Santhosh
 
 ____
