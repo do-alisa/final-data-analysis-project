@@ -11,6 +11,10 @@ This project will analyze a Spotify tracks dataset to explore which song charact
 
 ## Project Outline / Plan
 
+- Interface: Create an interactive dashboard for exploring relationships between Spotify song characteristics and popularity.
+- Data Collection and Storage: Clean and organize the Spotify tracks dataset while preserving the original CSV file.
+- Data Analysis and Visualization: Analyze relationships between popularity and song characteristics using statistical analysis and static and interactive visualizations.
+
 ### Interface Plan
 
 Our final project will include an interactive dashboard that allows users to explore the Spotify dataset and compare song popularity across different characteristics. Users may be able to filter songs by categories such as genre or explicit status and view how features like danceability, energy, acousticness, tempo, and duration relate to popularity. The dashboard will use clear labels and interactive charts so users can explore the data and identify patterns more easily.
